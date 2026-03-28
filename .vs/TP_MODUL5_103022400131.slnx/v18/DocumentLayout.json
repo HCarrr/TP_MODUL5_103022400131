@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "TP_MODUL5_103022400131\\Program.cs",
               "ToolTip": "D:\\huda\\Telkom\\TP_MODUL5_103022400131\\TP_MODUL5_103022400131\\Program.cs",
               "RelativeToolTip": "TP_MODUL5_103022400131\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAoAAAAAAAAAAAAIwA0AAAAeAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAAAFAAAAAAAAAA==",
+>>>>>>> generic-class
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T15:42:32.836Z",
               "EditorCaption": ""
